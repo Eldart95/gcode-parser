@@ -13,5 +13,5 @@ pip install XlsxWriter
 <li>run:
   
 ```
-python gcode_parser {name_of_gcode_file}.gcode
+python gcode_parser.py {name_of_gcode_file}.gcode
 ```
